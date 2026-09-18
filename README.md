@@ -1,2 +1,9 @@
-# raft-command-center
-Isolated Raft Deployment Command Center — Vite + React + Three.js
+# Raft Command Center
+
+Isolated Vite + React + TypeScript + Three.js command surface for raft material logistics, assembly protocol, 3D verification, and hydrodynamic variables.
+
+```bash
+npm install
+npm run dev
+npm run build
+```
